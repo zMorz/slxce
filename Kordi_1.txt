@@ -1,0 +1,126 @@
+	 SONOYUNCU TİTANYUM KORDİLER 
+
+    -SANCAK-
+24086 -3904  metokordi
+-25043 14438 metokordi2
+9123 -14079  metokordi3
+22430 -10096 metokordi4
+-18306 -18258 metokordi5
+6250 -12287  metokordi6
+-4464 663    metokordi7
+13555 4127   metokordi8
+26663 -2147  metokordi9
+-7306 20099  metokordi10
+2063 16111   metokordi11
+-3003 -12794 metokordi12
+-15246 18578 metokordi13
+509 691      metokordi14
+-20324 -19489 metokordi15
+16470 8844   metokordi16
+
+    -YAKAMOZ-
+-1632 18202  metkokordi	
+21648 25312  metokordi2
+-3582 -16253 metokordi3
+-20302 26570 metokordi4
+17866 19932  metokordi5
+-13496 10460 metokordi6
+16614 15611  metokordi7
+3614 -9923   metokordi8
+20807 10127  metokordi9
+-17182 -23720 metokordi10
+4362 -3735   metokordi11
+25543 -26279 metokordi12
+16327 23668  metokordi13
+18202 -13581 metokordi14
+-22230 22964 metokordi15
+3496 7996    metokordi16
+
+    -AVRASYA-
+22921 5207   metokordi
+18461 17687  metokordi2
+-22534 23781 metokordi3
+-364 -13708  metokordi4
+8706 27600   metokordi5	
+18183 12810 metokordi6
+18313 -16413 metokordi7
+1238 13748   metokordi8
+4577 23042   metokordi9
+13177 1593   metokordi10
+12993 -7132  metokordi11
+22478 8369   metokordi13
+-15343 -19772 metokordi14
+-14557 12975  metokordi15 
+-2017 -20136  metokordi16
+
+    -PRUVA-
+-26245 26956 metokordi
+-6666 18776  metokordi2
+-21771 27228 metokordi3
+-16997 17127 metokordi4
+-13525 24862 metokordi5
+18893 1474   metokordi6
+-21774 22004 metokordi7
+25030 5355   metokordi8
+-9213 15507  metokordi9
+-22144 23646 metokordi10
+-22268 -208  metokordi11
+-24074 -3428 metokordi12
+5709 -17078  metokordi13
+12094 2039   metokordi14
+14446 22524  metokordi15
+-26615 -12822 metokordi16
+
+    -VELENA-
+-5626 21105  metokordi
+-123 -17593  metokordi2
+12128 -7439  metokordi3
+-15939 5803  metokordi4
+6519 4573    metokordi5
+8707 20621   metokordi6
+11403 5982   metokordi7
+25335 -13358 metokordi8
+3070 16236   metokordi9
+-11345 -3842 metokordi10
+12335 -20886 metokordi11
+13913 26945  metokordi12
+-3507 -13675 metokordi13
+25929 -23353 metokordi14
+5553 23687   metokordi15
+-7077 -11418 metokordi16
+
+    -FLADOR-	
+-24499 -20382 metokordi
+-22229 5125   metokordi2
+12128 -7439   metokordi3
+5174 -21179   metokordi4
+-12618 9178   metokordi5
+-1843 19686   metokordi6
+-272 7800     metokordi7
+-18878 27726  metokordi8
+27910 20135   metokordi9
+1883 12516    metokordi10
+-2436 23464   metokordi11
+27361 -1173   metokordi12
+-22682 24683  metokordi13
+-22392 -18708 metokordi14 
+-13756 24479  metokordi15 
+-24165 26036  metokordi16
+
+    -ASTRA-
+-235 -20350   metokordi
+24130 -8467   metokordi2
+-8154 20406   metokordi3
+8989 -12499   metokordi4
+-23383 -12103 metokordi5
+20755 4301    metokordi6
+7428 6926     metokordi7
+9186 14570    metokordi8
+-2766 20249   metokordi9
+13752  -24493 metokordi10
+-15767 -4313  metokordi11
+21302 -17746  metokordi12
+4593 -24730   metokordi13
+21368 17865   metokordi14
+20822 -2604   metokordi15
+-3925 -18261  metokordi16
