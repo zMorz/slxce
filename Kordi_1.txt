@@ -1,3 +1,6 @@
+worlds = 
+
+
 SANCAK = {
     {24086, -3904},  -- metokordi
     {-25043, 14438}, -- metokordi2
